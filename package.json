@@ -3,7 +3,11 @@
   "version": "1.0.0",
   "description": "Web course on coursera.org",
   "main": "index.html",
-  "dependencies": {},
+  "dependencies": {
+    "bootstrap": "^5.1.3",
+    "jquery": "^3.6.0",
+    "popper.js": "^1.12.9"
+  },
   "devDependencies": {
     "lite-server": "^2.6.1"
   },
