@@ -1,0 +1,26 @@
+{
+  "name": "course",
+  "version": "1.0.0",
+  "description": "Web course on coursera.org",
+  "main": "index.html",
+  "dependencies": {},
+  "devDependencies": {
+    "lite-server": "^2.6.1"
+  },
+  "scripts": {
+    "test": "npm run lite"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bochka123/Course.git"
+  },
+  "keywords": [
+    "Course"
+  ],
+  "author": "bochka123",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/bochka123/Course/issues"
+  },
+  "homepage": "https://github.com/bochka123/Course#readme"
+}
